@@ -148,19 +148,23 @@ My work spans gameplay architecture, interaction systems, combat, artificial int
 
 ## 🚀 Selected Projects
 
-### 🏎️ [DeathSentence](https://github.com/WARL0RD-11/DeathSentence)
+### Sticky Fingers(https://nishantverma11-portfolio.vercel.app/StickyFingers)
 
-**Vehicle Combat AI Prototype — Unreal Engine 5 and C++**
+A couch co-op heist game developed by a multidisciplinary team of 15 for Nintendo Switch and Steam.
 
-* Developed a custom Behavior Tree framework using Composite, Decorator, and Task nodes
-* Built combat, roaming, strafing, pursuit, pickup, low-health, and low-ammunition behaviors
-* Applied the Strategy pattern to targeting and pickup selection
-* Implemented vehicle steering, throttle, braking, weapons, ammunition, damage, and recovery
-* Generated reusable combat arenas through procedural layout systems
+My contributions included:
+
+* Modular object interaction and grabbing systems
+* Runtime input-device detection
+* Cross-platform UI prompt switching
+* Main menu, pause menu, settings, and level-selection workflows
+* Save data, progression, and level-unlock systems
+* Debugging utilities and milestone support
+* Audio composition and implementation support
 
 ---
 
-### 🤖 [TikkiTaka](https://github.com/WARL0RD-11/TikkiTaka)
+### 🏎️ [TikkiTaka](https://github.com/WARL0RD-11/TikkiTaka)
 
 **Top-Down Tank Combat and Runtime Level Editor — Unreal Engine 5 and C++**
 
@@ -169,18 +173,6 @@ My work spans gameplay architecture, interaction systems, combat, artificial int
 * Created world states, actions, goals, planning logic, and runtime planner debugging
 * Built projectile weapons, target detection, line-of-sight checks, aiming, and recovery behaviors
 * Created a runtime level editor with grid placement, configurable properties, save/load support, and patrol-route authoring
-
----
-
-### 🧩 [Systems](https://github.com/WARL0RD-11/Systems)
-
-**Reusable Gameplay Systems Sandbox — Unreal Engine 5 and C++**
-
-* Built a data-driven inventory using the Type Object pattern
-* Implemented reusable item behaviors for equipping, healing, and throwing
-* Created a radial weapon wheel and quick-use workflows
-* Separated item definitions from runtime behavior
-* Explored extensible gameplay architecture without large conditional chains
 
 ---
 
@@ -198,24 +190,6 @@ My work spans gameplay architecture, interaction systems, combat, artificial int
 
 ---
 
-### 🧠 [Gameplay Programming Patterns](https://github.com/WARL0RD-11/GPPatterns)
-
-**Design Patterns Applied to Gameplay Problems**
-
-Gameplay-focused implementations and experiments involving:
-
-* Command
-* Strategy
-* Composite
-* Observer
-* State
-* Type Object
-* Component-based system design
-
-The goal is not only to implement patterns, but to understand when each pattern improves extensibility, ownership, communication, and iteration inside a gameplay codebase.
-
----
-
 ### 🌐 [Blaster](https://github.com/WARL0RD-11/Blaster)
 
 **Networked Multiplayer Gameplay — Unreal Engine and C++**
@@ -224,19 +198,6 @@ A multiplayer gameplay project focused on replicated combat, client/server commu
 
 ## 🎯 Additional Game Work
 
-### Sticky Fingers
-
-A couch co-op heist game developed by a multidisciplinary team of 15 for Nintendo Switch and Steam.
-
-My contributions included:
-
-* Modular object interaction and grabbing systems
-* Runtime input-device detection
-* Cross-platform UI prompt switching
-* Main menu, pause menu, settings, and level-selection workflows
-* Save data, progression, and level-unlock systems
-* Debugging utilities and milestone support
-* Audio composition and implementation support
 
 ### Pivot
 
@@ -313,7 +274,7 @@ alt="Nishant's GitHub Contribution Streak"
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge\&logo=vercel\&logoColor=white)](https://nishantverma11-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nishant-verma-bb40b2247/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge\&logo=itchdotio\&logoColor=white)](https://nishantwarlord-verma11.itch.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vnishant148@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:verma.nishant1101@gmail.com)
 
 </div>
 
