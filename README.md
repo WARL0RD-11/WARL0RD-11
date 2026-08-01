@@ -148,7 +148,7 @@ My work spans gameplay architecture, interaction systems, combat, artificial int
 
 ## 🚀 Selected Projects
 
-### Sticky Fingers(https://nishantverma11-portfolio.vercel.app/StickyFingers)
+### [Sticky Fingers](https://nishantverma11-portfolio.vercel.app/StickyFingers)
 
 A couch co-op heist game developed by a multidisciplinary team of 15 for Nintendo Switch and Steam.
 
@@ -199,7 +199,7 @@ A multiplayer gameplay project focused on replicated combat, client/server commu
 ## 🎯 Additional Game Work
 
 
-### Pivot
+### [Pivot](https://nishantverma11-portfolio.vercel.app/PIVOT)
 
 An alternative-controller game in which players physically move a couch-shaped controller to guide a virtual couch through an obstacle course while escaping a giant skull.
 
